@@ -12,7 +12,7 @@ I use [Node.js](https://nodejs.org) to run the server and JavaScript ES6.
 
 ### 2. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-### 3. Once Node.js installed, open up the terminal.
+### 3. Once Git and Node.js installed, open up the terminal.
 
 ### 4. Clone the project:
 
