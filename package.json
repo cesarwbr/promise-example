@@ -11,7 +11,7 @@
   },
   "scripts": {
     "watch": "babel src --watch --out-dir dist",
-    "build": "mkdir -f dist && babel src --out-dir dist",
+    "build": "mkdir -p dist && babel src --out-dir dist",
     "start": "npm run build && http-server"
   },
   "author": "Cesar William",

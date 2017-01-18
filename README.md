@@ -10,15 +10,23 @@ I use [Node.js](https://nodejs.org) to run the server and JavaScript ES6.
 
 ### 1. Install [Node.js](https://nodejs.org/en/download/).
 
-### 2. Once Node.js installed, open up the terminal.
+### 2. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-### 3. Navigate to the project folder:
+### 3. Once Node.js installed, open up the terminal.
+
+### 4. Clone the project:
+
+```
+git clone git@github.com:cesarwbr/promise-example.git
+```
+
+### 5. Navigate to the project folder:
 
 ```
 $ cd promise-example
 ```
 
-### 4. And finally run:
+### 6. And finally run:
 
 ```
 $ npm install
